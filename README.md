@@ -85,7 +85,7 @@ Mide la capacidad para identificar correctamente a los clientes que efectivament
 
 ## Resultados
 
-| Modelo | ROC-AUC | Recall |
+| Modelo | ROC-AUC | Sensibilidad |
 |----------|----------:|----------:|
 | DummyClassifier | 0.5000 | 0.0000 |
 | Árbol de Decisión | 0.7890 | 0.8797 |
