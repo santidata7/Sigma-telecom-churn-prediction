@@ -1,5 +1,3 @@
-<a href="assets/captura-grande.png">
-  <img src="assets/sigma_fuga-telecom.png" width="150" alt="Captura de la aplicación">
 </a><img width="1280" height="640" alt="sigma_fuga-telecom" src="https://github.com/user-attachments/assets/acffb613-d844-4994-b814-315644b765ec" />
 # Sigma-Telecom-Churn-Prediction
 
