@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="sigma_fuga-telecom" src="https://github.com/user-attachments/assets/acffb613-d844-4994-b814-315644b765ec" />
 # Sigma-Telecom-Churn-Prediction
 
 ## Descripción del proyecto
